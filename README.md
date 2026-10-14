@@ -8,15 +8,8 @@ I am a ongoing student in cyber security with a profound interest in technology 
 
 ## Objective
 
-My journey in cyber security has led me to develop a passion for security, And i am now eager to step into the field to do it professiaonally. 
+My journey in cyber security has led me to develop a passion for security, And i am now eager to step into the field to do it professionally. 
 
-## Skills
-
-Building...
-
-## Certifications
-
-Building...
 
 <!--
 **williamsaevik/williamsaevik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
