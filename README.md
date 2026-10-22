@@ -4,11 +4,11 @@
 
 ## Introduction
 
-I am a ongoing student in cyber security with a profound interest in technology and a dedication to solving problems.
+I am a ongoing student in cyber security with an interest in technology and a dedication to solving problems.
 
 ## Objective
 
-My journey in cyber security has led me to develop a passion for security, And i am now eager to step into the field to do it professionally. 
+My journey in cyber security has led me to develop a passion for security, And i am now eager to step into the field to do it professionally eventually
 
 
 <!--
